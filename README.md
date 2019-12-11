@@ -1,4 +1,4 @@
-
+![](https://github.com/m4r10k/team-achievements/blob/master/achievement-instructor-small.png)
 
 # Achievements
 This repository currently contains just a single .SVG file with various achievement graphics within. They are meant to **be printed** (yes, analouge, old school you know) and to handed over to your team members to honor their work.
