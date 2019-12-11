@@ -8,7 +8,7 @@ The logos used are mostly open source ones and if not, I applogize that I have t
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 ## Font
-The font used for the achievement plates is 
+The font used for the achievement plates is **Comfortaa** from [Google Fonts](https://fonts.google.com/specimen/Comfortaa).
 
 ## ToDo
 Split the large SVG files to single files...
