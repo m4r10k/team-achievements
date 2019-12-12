@@ -6,7 +6,8 @@ do
 	fullname=$f
 	basename=$(basename $fullname)
 	name=${basename%.*}
-	convert -resize 200x $fullname ../thumbnails/$name.png
+	convert -resize 100x $fullname ../thumbnails/$name.png
+	convert -resize 1000x $fullname ../pngs/$name.png
 done 
 
 ## create README.md from golang template
