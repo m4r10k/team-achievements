@@ -14,3 +14,13 @@ The font used for the achievement plates is **Comfortaa** from [Google Fonts](ht
 - split the large SVG files to single files...
 - create thumbnails...
 
+## Thumbnails and direct achievement download
+
+The thumbnails are generated with some script foo. If you are interested, look into the build folder :)
+
+
+
+![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/worlds-best-team-leader.png)
+
+
+
