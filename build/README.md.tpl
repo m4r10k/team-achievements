@@ -18,5 +18,5 @@ The font used for the achievement plates is **Comfortaa** from [Google Fonts](ht
 
 The thumbnails are generated with some script foo. If you are interested, look into the build folder :)
 
-{{ range (ds "directory").files }}[![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/{{.}})]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}}) {{end}}
+{{ range (ds "directory").files }}[![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/{{.}})]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{{.}}) {{end}}
 
