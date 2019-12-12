@@ -20,67 +20,67 @@ The thumbnails are generated with some script foo. If you are interested, look i
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/golang-ifided.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/golang-ifided.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/fixed-the-aws-cloud.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/fixed-the-aws-cloud.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/survived-the-first-week.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/survived-the-first-week.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/love-my-team.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/love-my-team.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/worlds-best-team-leader.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/worlds-best-team-leader.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/command-line-hero.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/command-line-hero.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/migrate-it.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/migrate-it.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/coffee-cup-washer.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/coffee-cup-washer.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/papers-please.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/papers-please.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/upgrade-level-one.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/upgrade-level-one.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/call-me-mr-machine.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/call-me-mr-machine.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/plaster-master.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/plaster-master.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/i-am-multi-cultural.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/i-am-multi-cultural.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/golang-instructor.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/golang-instructor.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/nothing-left-behind.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/nothing-left-behind.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/the-force-is-with-me.png)
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/the-force-is-with-me.png)]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 
 

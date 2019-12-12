@@ -20,7 +20,7 @@ The thumbnails are generated with some script foo. If you are interested, look i
 
 {{ range (ds "directory").files }}
 
-![](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/{{.}})
+![[](https://github.com/m4r10k/team-achievements/blob/master/thumbnails/{{.}})]({https://github.com/m4r10k/team-achievements/blob/master/pngs/{}})
 
 {{end}}
 
